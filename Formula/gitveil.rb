@@ -6,11 +6,11 @@ class Gitveil < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/lucatescari/gitveil/releases/download/v0.2.0/gitveil-0.2.0-darwin-arm64.tar.gz"
+      url "https://github.com/lucatescari/gitveil/releases/download/v0.2.1/gitveil-0.2.1-darwin-arm64.tar.gz"
       sha256 "ac9e14e1092ff61d12d5bc18623394a923641aeab2ff1bfb403006d6842bfa89"
     end
     on_intel do
-      url "https://github.com/lucatescari/gitveil/releases/download/v0.2.0/gitveil-0.2.0-darwin-arm64.tar.gz"
+      url "https://github.com/lucatescari/gitveil/releases/download/v0.2.1/gitveil-0.2.1-darwin-arm64.tar.gz"
       sha256 "ac9e14e1092ff61d12d5bc18623394a923641aeab2ff1bfb403006d6842bfa89"
     end
   end
