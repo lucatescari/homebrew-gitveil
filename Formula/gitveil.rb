@@ -1,13 +1,13 @@
 class Gitveil < Formula
   desc "Transparent file encryption in git (git-crypt compatible)"
   homepage "https://github.com/lucatescari/gitveil"
-  version "1.3.0"
+  version "1.3.1"
   license "GPL-3.0"
 
   on_macos do
     on_arm do
-      url "https://github.com/lucatescari/gitveil/releases/download/v1.3.0/gitveil-1.3.0-darwin-arm64.tar.gz"
-      sha256 "cf71eed8c80899a8c8e3d44dfbb08c66fd65bd316e68013972bf2bd5ad15b3af"
+      url "https://github.com/lucatescari/gitveil/releases/download/v1.3.1/gitveil-1.3.1-darwin-arm64.tar.gz"
+      sha256 "f5e314ffba23eeaa9b623aad705d4e0ad8049d52f41692d7fca9cea816e58fc2"
     end
   end
 
